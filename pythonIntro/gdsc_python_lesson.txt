@@ -1,0 +1,35 @@
+script mode and immediate mode
+script mode: in IDEs with interpreters and text editors incorporated
+immediate mode: in terminal and IDLE
+
+syntax errors: 
+
+runtime errors (exceptions):
+
+semantic errors:
+
+
+syntax elements
+
+
+int:
+
+float:
+
+string:
+
+lookup replace function and how it is used with strings alongside other functions
+
+
+list
+lookup other list functions
+
+
+
+if else elif conditionals
+
+loops (for, while)
+
+fxns
+
+dicts and tuples
